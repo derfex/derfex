@@ -263,7 +263,7 @@ CSS — не то, что можно разрабатывать спустя р�
 ### 2017
 
 Курсы Node.js  
-Яндекс.Деньги, Сертификат: https://drive.google.com/file/d/1lTTnEnwmio6o2uJveBJz2nnwHlZMTn6e/view?usp=sharing
+Яндекс.Деньги, [cертификат](https://drive.google.com/file/d/1lTTnEnwmio6o2uJveBJz2nnwHlZMTn6e/view?usp=sharing).
 
 ### 2007
 
