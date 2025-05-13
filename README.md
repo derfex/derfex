@@ -55,7 +55,7 @@ Later I realized that this is outdated AngularJS.
 Suddenly I got a job at a company where they wrote in Vue.
 I studied and experimented — stylish, succinct, modern!
 
-### [elaboration-angular][elaboration-angular]
+### [elaboration][elaboration] (Angular)
 
 I returned to the idea of writing in Angular with strict typing and following patterns — important for large projects.
 
@@ -65,7 +65,7 @@ For access to private projects, contact me.
 
 
 [angular-first]: https://github.com/derfex/angular-first
-[elaboration-angular]: https://github.com/derfex/elaboration-angular
+[elaboration]: https://github.com/derfex/elaboration
 [elaboration-vue]: https://github.com/derfex/elaboration-vue
 [experience]: https://github.com/derfex/experience
 [notes/development]: https://github.com/derfex/notes/tree/master/development
