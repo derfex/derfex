@@ -1,5 +1,8 @@
 # Проекты
 
+> [!TIP]
+> [English version][EnglishVersion].
+
 Приветствую каждого! 👋
 
 Код, которым горжусь, с большим временем трудозатрат, принадлежит частным проектам.  
@@ -61,6 +64,8 @@
 
 Для доступа к приватным проектам свяжитесь со мной.
 
+
+[EnglishVersion]: ../README.md
 
 [angular-first]: https://github.com/derfex/angular-first
 [elaboration]: https://github.com/derfex/elaboration

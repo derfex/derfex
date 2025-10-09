@@ -1,5 +1,8 @@
 # Projects
 
+> [!TIP]
+> [Версия на русском языке][RussianVersion].
+
 Hello everyone! 👋
 
 The code that I'm proud of, with a lot of labor involved, belongs to private projects.  
@@ -63,6 +66,8 @@ I returned to the idea of writing in Angular with strict typing and following pa
 
 For access to private projects, contact me.
 
+
+[RussianVersion]: ./ru/README.md
 
 [angular-first]: https://github.com/derfex/angular-first
 [elaboration]: https://github.com/derfex/elaboration
