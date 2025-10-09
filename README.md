@@ -33,7 +33,7 @@ described an unpopular problem and its solution.
 In the article [«Работа с Git»][notes/development Git] (ru)
 described an approach that permeates every new team I am involved with.
 
-[notes/development Git]: https://github.com/derfex/notes/blob/master/development/git.md
+[notes/development Git]: https://github.com/derfex/notes/blob/master/development/git/git--ru.md
 
 ## Frameworks
 
