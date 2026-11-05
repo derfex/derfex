@@ -1,7 +1,7 @@
 # Projects
 
 > [!TIP]
-> [Версия на русском языке][RussianVersion].
+> [Russian version (ru: версия на русском языке)][RussianVersion].
 
 Hello everyone! 👋
 
