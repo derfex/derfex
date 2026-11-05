@@ -58,7 +58,7 @@ Later I realized that this is outdated AngularJS.
 Suddenly I got a job at a company where they wrote in Vue.
 I studied and experimented — stylish, succinct, modern!
 
-### [elaboration][elaboration] (Angular)
+### [elaboration][elaboration] (Web front-end and Node)
 
 I returned to the idea of writing in Angular with strict typing and following patterns — important for large projects.
 
