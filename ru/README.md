@@ -5,6 +5,22 @@
 
 Приветствую каждого! 👋
 
+## Tech stack
+
+### Front-end
+
+[![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)](https://angular.dev)
+[![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org)
+[![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)](https://pinia.vuejs.org)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev)
+[![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)](https://vitest.dev)
+
+### Back-end
+
+[![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org)
+[![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nestjs)](https://nestjs.com)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=python)](https://www.python.org/)
+
 ## Проекты
 
 Код, которым горжусь, с большим временем трудозатрат, принадлежит частным проектам.  
