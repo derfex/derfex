@@ -56,29 +56,13 @@
 
 [notes/development Git]: https://github.com/derfex/notes/blob/master/development/git/git--ru.md
 
-### Frameworks
+### Крупномасштабное
 
-После нативного JavaScript был локальный фреймворк компании.
-Вскоре мне захотелось пробовать фреймворки с мировым комьюнити и TypeScript.
+Помимо нативных технологий, меня интересует TypeScript и инструменты для крупномасштабных проектов.
 
-#### [react-first][react-first]
+#### [elaboration][elaboration] (web front-end and Node)
 
-Набрёл на урок по React@15.
-
-#### [angular-first][angular-first]
-
-Меня больше интересовал Angular.
-Набрёл на уроки по нему.
-Позже осознал, что это устаревший AngularJS.
-
-#### [elaboration-vue][elaboration-vue]
-
-Внезапно устроился в компанию, где писали на Vue.
-Изучал и экспериментировал — стильно, ёмко, современно!
-
-#### [elaboration][elaboration] (Web front-end and Node)
-
-Вернулся к идее писать на Angular со строгой типизацией и следованием паттернам — важно для крупных проектов.
+Пишу и поддерживаю проекты со строгой типизацией на Angular, Vue, Nx, Nest.
 
 ### Другие
 
@@ -87,10 +71,7 @@
 
 [EnglishVersion]: ../README.md
 
-[angular-first]: https://github.com/derfex/angular-first
 [elaboration]: https://github.com/derfex/elaboration
-[elaboration-vue]: https://github.com/derfex/elaboration-vue
 [experience]: https://github.com/derfex/experience
 [notes/development]: https://github.com/derfex/notes/tree/master/development
 [pure-tasks]: https://github.com/derfex/pure-tasks
-[react-first]: https://github.com/derfex/react-first
