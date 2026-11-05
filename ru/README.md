@@ -15,7 +15,9 @@
 ### [pure-tasks][pure-tasks]
 
 Мелочи на чистом JS (ES5+), CSS, HTML, SVG — тестовые задания некоторых компаний.  
-Результаты можно запустить в браузере, ссылки в [`README`](https://github.com/derfex/pure-tasks/blob/master/README.md).
+Результаты можно запустить в браузере, ссылки в [`README`][pure-tasks README].
+
+[pure-tasks README]: https://github.com/derfex/pure-tasks/blob/master/README.md
 
 ## Development notes
 
