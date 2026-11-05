@@ -10,10 +10,19 @@
 ### Front-end
 
 [![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)](https://angular.dev)
+[![RxJS](https://go-skill-icons.vercel.app/api/icons?i=rxjs)](https://rxjs.dev)
 [![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org)
 [![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)](https://pinia.vuejs.org)
 [![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev)
 [![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)](https://vitest.dev)
+[![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)](https://sass-lang.com)
+
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![SVG](https://go-skill-icons.vercel.app/api/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
+[![Markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown)](https://daringfireball.net/projects/markdown)
 
 ### Back-end
 
