@@ -1,68 +1,70 @@
-# Проекты
+# Введение
 
 > [!TIP]
 > [English version][EnglishVersion].
 
 Приветствую каждого! 👋
 
+## Проекты
+
 Код, которым горжусь, с большим временем трудозатрат, принадлежит частным проектам.  
 Мои мелкие проекты доступны в репозиториях.
 
-## Native
+### Native
 
 Прежде всего я много и долго писал на нативных технологиях.
 
-### [pure-tasks][pure-tasks]
+#### [pure-tasks][pure-tasks]
 
 Мелочи на чистом JS (ES5+), CSS, HTML, SVG — тестовые задания некоторых компаний.  
 Результаты можно запустить в браузере, ссылки в [`README`][pure-tasks README].
 
 [pure-tasks README]: https://github.com/derfex/pure-tasks/blob/master/README.md
 
-## Development notes
+### Development notes
 
 В процессе разработки проектов формируются предпочтения и подходы.
 Те, которыми часто делюсь, оформляю заметками.
 
-### [experience][experience]
+#### [experience][experience]
 
 В статье [«Оператор `typeof`: демонстрация неприменимости»][experience typeof]
 описал непопулярную проблему и её решение.
 
 [experience typeof]: https://github.com/derfex/experience/tree/develop/typeof
 
-### [notes/development][notes/development]
+#### [notes/development][notes/development]
 
 В статье [«Работа с Git»][notes/development Git]
 описал подход, проникающий в каждую новую команду, в которой я участвую.
 
 [notes/development Git]: https://github.com/derfex/notes/blob/master/development/git/git--ru.md
 
-## Frameworks
+### Frameworks
 
 После нативного JavaScript был локальный фреймворк компании.
 Вскоре мне захотелось пробовать фреймворки с мировым комьюнити и TypeScript.
 
-### [react-first][react-first]
+#### [react-first][react-first]
 
 Набрёл на урок по React@15.
 
-### [angular-first][angular-first]
+#### [angular-first][angular-first]
 
 Меня больше интересовал Angular.
 Набрёл на уроки по нему.
 Позже осознал, что это устаревший AngularJS.
 
-### [elaboration-vue][elaboration-vue]
+#### [elaboration-vue][elaboration-vue]
 
 Внезапно устроился в компанию, где писали на Vue.
 Изучал и экспериментировал — стильно, ёмко, современно!
 
-### [elaboration][elaboration] (Web front-end and Node)
+#### [elaboration][elaboration] (Web front-end and Node)
 
 Вернулся к идее писать на Angular со строгой типизацией и следованием паттернам — важно для крупных проектов.
 
-## Другие
+### Другие
 
 Для доступа к приватным проектам свяжитесь со мной.
 
