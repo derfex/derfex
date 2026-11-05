@@ -1,76 +1,86 @@
-# Проекты
+# Введение
 
 > [!TIP]
 > [English version][EnglishVersion].
 
 Приветствую каждого! 👋
 
+## Tech stack
+
+### Front-end
+
+[![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)](https://angular.dev)
+[![RxJS](https://go-skill-icons.vercel.app/api/icons?i=rxjs)](https://rxjs.dev)
+[![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org)
+[![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)](https://pinia.vuejs.org)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev)
+[![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)](https://vitest.dev)
+[![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)](https://sass-lang.com)
+
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![SVG](https://go-skill-icons.vercel.app/api/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
+[![Markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown)](https://daringfireball.net/projects/markdown)
+
+### Back-end
+
+[![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org)
+[![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nestjs)](https://nestjs.com)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=python)](https://www.python.org/)
+
+## Проекты
+
 Код, которым горжусь, с большим временем трудозатрат, принадлежит частным проектам.  
 Мои мелкие проекты доступны в репозиториях.
 
-## Native
+### Native
 
 Прежде всего я много и долго писал на нативных технологиях.
 
-### [pure-tasks][pure-tasks]
+#### [pure-tasks][pure-tasks]
 
 Мелочи на чистом JS (ES5+), CSS, HTML, SVG — тестовые задания некоторых компаний.  
-Результаты можно запустить в браузере, ссылки в [`README`](https://github.com/derfex/pure-tasks/blob/master/README.md).
+Результаты можно запустить в браузере, ссылки в [`README`][pure-tasks README].
 
-## Development notes
+[pure-tasks README]: https://github.com/derfex/pure-tasks/blob/master/README.md
+
+### Development notes
 
 В процессе разработки проектов формируются предпочтения и подходы.
 Те, которыми часто делюсь, оформляю заметками.
 
-### [experience][experience]
+#### [experience][experience]
 
 В статье [«Оператор `typeof`: демонстрация неприменимости»][experience typeof]
 описал непопулярную проблему и её решение.
 
 [experience typeof]: https://github.com/derfex/experience/tree/develop/typeof
 
-### [notes/development][notes/development]
+#### [notes/development][notes/development]
 
 В статье [«Работа с Git»][notes/development Git]
 описал подход, проникающий в каждую новую команду, в которой я участвую.
 
 [notes/development Git]: https://github.com/derfex/notes/blob/master/development/git/git--ru.md
 
-## Frameworks
+### Крупномасштабное
 
-После нативного JavaScript был локальный фреймворк компании.
-Вскоре мне захотелось пробовать фреймворки с мировым комьюнити и TypeScript.
+Помимо нативных технологий, меня интересует TypeScript и инструменты для крупномасштабных проектов.
 
-### [react-first][react-first]
+#### [elaboration][elaboration] (web front-end and Node)
 
-Набрёл на урок по React@15.
+Пишу и поддерживаю проекты со строгой типизацией на Angular, Vue, Nx, Nest.
 
-### [angular-first][angular-first]
-
-Меня больше интересовал Angular.
-Набрёл на уроки по нему.
-Позже осознал, что это устаревший AngularJS.
-
-### [elaboration-vue][elaboration-vue]
-
-Внезапно устроился в компанию, где писали на Vue.
-Изучал и экспериментировал — стильно, ёмко, современно!
-
-### [elaboration][elaboration] (Angular)
-
-Вернулся к идее писать на Angular со строгой типизацией и следованием паттернам — важно для крупных проектов.
-
-## Другие
+### Другие
 
 Для доступа к приватным проектам свяжитесь со мной.
 
 
 [EnglishVersion]: ../README.md
 
-[angular-first]: https://github.com/derfex/angular-first
 [elaboration]: https://github.com/derfex/elaboration
-[elaboration-vue]: https://github.com/derfex/elaboration-vue
 [experience]: https://github.com/derfex/experience
 [notes/development]: https://github.com/derfex/notes/tree/master/development
 [pure-tasks]: https://github.com/derfex/pure-tasks
-[react-first]: https://github.com/derfex/react-first

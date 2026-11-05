@@ -1,78 +1,86 @@
-# Projects
+# Introduction
 
 > [!TIP]
-> [Версия на русском языке][RussianVersion].
+> [Russian version (ru: версия на русском языке)][RussianVersion].
 
 Hello everyone! 👋
+
+## Tech stack
+
+### Front-end
+
+[![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)](https://angular.dev)
+[![RxJS](https://go-skill-icons.vercel.app/api/icons?i=rxjs)](https://rxjs.dev)
+[![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org)
+[![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)](https://pinia.vuejs.org)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev)
+[![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)](https://vitest.dev)
+[![SASS](https://go-skill-icons.vercel.app/api/icons?i=sass)](https://sass-lang.com)
+
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![SVG](https://go-skill-icons.vercel.app/api/icons?i=svg)](https://developer.mozilla.org/docs/Web/SVG)
+[![Markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown)](https://daringfireball.net/projects/markdown)
+
+### Back-end
+
+[![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org)
+[![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nestjs)](https://nestjs.com)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=python)](https://www.python.org/)
+
+## Projects
 
 The code that I'm proud of, with a lot of labor involved, belongs to private projects.  
 My small projects are available in repositories.
 
-## Native
+### Native
 
 First of all, I wrote a lot and for a long time on native technologies.
 
-### [pure-tasks][pure-tasks]
+#### [pure-tasks][pure-tasks]
 
 Trivia in pure JS (ES5+), CSS, HTML, SVG — test tasks from some companies.  
 The results can be run in the browser, links in [`README`][pure-tasks README].
 
 [pure-tasks README]: https://github.com/derfex/pure-tasks/blob/master/README.md
 
-## Development notes
+### Development notes
 
 During the development of projects, preferences and approaches are formed.
 Those that I often share, I write down in notes.
 
-### [experience][experience]
+#### [experience][experience]
 
 In the article [«Оператор `typeof`: демонстрация неприменимости»][experience typeof] (ru)
 described an unpopular problem and its solution.
 
 [experience typeof]: https://github.com/derfex/experience/tree/develop/typeof
 
-### [notes/development][notes/development]
+#### [notes/development][notes/development]
 
 In the article [«Работа с Git»][notes/development Git] (ru)
 described an approach that permeates every new team I am involved with.
 
 [notes/development Git]: https://github.com/derfex/notes/blob/master/development/git/git--ru.md
 
-## Frameworks
+### Large-scale
 
-After native JavaScript there was the company’s local framework.
-Soon I wanted to try frameworks with the global community and TypeScript.
+In addition to native technologies, I am interested in TypeScript and tools for large-scale projects.
 
-### [react-first][react-first]
+#### [elaboration][elaboration] (web front-end and Node)
 
-I came across a lesson on React@15.
+I write and maintain strongly typed projects using Angular, Vue, Nx, and Nest.
 
-### [angular-first][angular-first]
-
-I was more interested in Angular.
-I came across lessons on it.
-Later I realized that this is outdated AngularJS.
-
-### [elaboration-vue][elaboration-vue]
-
-Suddenly I got a job at a company where they wrote in Vue.
-I studied and experimented — stylish, succinct, modern!
-
-### [elaboration][elaboration] (Angular)
-
-I returned to the idea of writing in Angular with strict typing and following patterns — important for large projects.
-
-## Other
+### Other
 
 For access to private projects, contact me.
 
 
 [RussianVersion]: ./ru/README.md
 
-[angular-first]: https://github.com/derfex/angular-first
 [elaboration]: https://github.com/derfex/elaboration
-[elaboration-vue]: https://github.com/derfex/elaboration-vue
 [experience]: https://github.com/derfex/experience
 [notes/development]: https://github.com/derfex/notes/tree/master/development
 [pure-tasks]: https://github.com/derfex/pure-tasks
-[react-first]: https://github.com/derfex/react-first
